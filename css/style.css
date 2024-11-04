@@ -38,9 +38,13 @@ td, th {
   text-align: center;
   vertical-align: middle;
 }
-#no-border{
+#no-border {
     border: none;
 }
+#td1 {
+  font-size: 150%;
+  font-weight: 550;
+} 
 .table-image {
   width: 100px;
   height: 100px;
