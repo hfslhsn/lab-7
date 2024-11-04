@@ -1,0 +1,48 @@
+body {
+  background-image: url("../images/space.png");
+  color: white
+}
+.kalam-regular {
+  font-family: "Kalam", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.itim-regular {
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  font-family: "Kalam", cursive;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: auto; 
+  overflow: hidden;
+}
+#planets {
+  position: relative;
+  margin: 20px auto 0;
+  font-family: Itim
+}  
+th { 
+  font-weight: 500;
+  font-size: 150%;
+  font-style: italic;
+  background-color: 
+}  
+td, th {
+  padding: 10px;
+	border: 1px solid #ddd;
+  text-align: center;
+  vertical-align: middle;
+}
+#no-border{
+    border: none;
+}
+.table-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
